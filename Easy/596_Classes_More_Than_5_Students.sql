@@ -1,6 +1,7 @@
--- LeetCode 596: Write a solution to find all the classes that have at least five students.
-
-
+-- LeetCode 596: Classes More Than 5 Students
+--
+-- Problem:
+-- Write a solution to find all the classes that have at least five students.
 
 SELECT class
 FROM Courses
